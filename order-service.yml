@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+productService:
+  message: "Welcome to order-service related default profile APIS"
+  contactDetails:
+    name: "Suvendu Lech - Developer"
+    email: "suvendu@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
