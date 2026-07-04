@@ -1,4 +1,5 @@
-private-key:"-----BEGIN PRIVATE KEY-----
+jwt:
+  private-key: "-----BEGIN PRIVATE KEY-----
 MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLHjrmx30eWIEL
 8UHZO1G1MEvhgrI4EKH37cTycfleiEex0rHw0R0804Ga8Wi9ZenTvYNIgwlsOJOA
 +ntmFV426wYvOZqttHijyzoG0HO2K5tAlXZX2+xH+1oAltwLgEIgHH2PBGwtZkb9
